@@ -13,3 +13,13 @@ Include:
 - Create Article
 - Comments by AJAX
 - Forms
+
+## Technologies
+
+- Python
+- Django
+- SQLite
+- HTML/CSS
+- JavaScript
+- Bootstrap
+- Ajax
